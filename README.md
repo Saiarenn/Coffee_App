@@ -1,7 +1,7 @@
 # SDP FINAL
 
 
-<img src="src/img/pi.png" alt="Final" height="500">
+<img src="./src/img/pi.png" alt="Final" height="500">
 
 ## Patterns
 
